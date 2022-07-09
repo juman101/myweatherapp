@@ -1,10 +1,10 @@
 # My weather app
 
-this is a program which tells the current weather condition
+This is a program which tells the current weather condition
 
 ## languages
 
-i have used HTML,CSS and JAVASCRIPT.With the help of API i can fetch the life weather conditions of any location or even by detecting live location .
+I have used HTML,CSS and JavaScript.With the help of API i can fetch the life weather conditions of any location or even by detecting live location .
 
 ### how to start 
 
